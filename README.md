@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="center">Here is where I would flex my achievements <br> if I had any</h2>
+<h2 align="center">Here is where I would flex my achievements... <br> ...if I had any</h2>
 
 <div align="center">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="50" alt="Hacktober2025lvl0" />
